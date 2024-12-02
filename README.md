@@ -26,33 +26,21 @@ This project is an **interactive Kanban board application** built with **ReactJS
 5. **Visual Accuracy**:  
    The UI is designed to match the provided screenshots precisely, offering a clean and visually appealing interface.
 
----
-
-## **Technologies Used**
-
-- **ReactJS**: For building the frontend application.
-- **Pure CSS**: For styling without using external CSS libraries (e.g., Bootstrap, Tailwind).
-- **REST API**: Consumes data from the [QuickSell API](https://api.quicksell.co/v1/internal/frontend-assignment).
-
----
-
 ## **Installation**
 
 Follow these steps to set up the project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/vinayakjaas/QuickSell_Frontend_Assignment.git
+   cd QuickSell_Frontend_Assignment.git
    ```
 2. **Install Dependencies**:
     ```bash
-    Copy code
     npm install
     ```
 3. **Start the Development Server**:
     ```bash
-    Copy code
     npm start
     ```
 4. **Open your browser and visit**:
@@ -101,4 +89,4 @@ Each ticket object contains the following details:
 This project was completed as part of the QuickSell Frontend Assignment.
 - By Vinayak Raj Ranjan
 - Final year student at IIT Jodhpur 
-"# QuickSell_Frontend_Assignment" 
+
